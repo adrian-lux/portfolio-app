@@ -1,12 +1,12 @@
-## Personal Portfolio
+# Adrian Lux, Personal Portfolio
 
-### [Live Site](https://jsmasterypro.com)
+This application is based on on a tutorial of jsmastery.
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+```https://www.youtube.com/watch?v=OPaLnMw2i_0```
 
-This is a code repository for the corresponding video tutorial. Your portfolio is your resume and your business card.
+## Description
 
-In this video, we will create a full Personal Development Portfolio. We're going to use React and Next.js.
+This application uses React and Next.js.
 
-Setup:
-- run ```npm i && npm start```
+To start it locally clone the repo and run:
+-  ```npm i && npm run dev```
